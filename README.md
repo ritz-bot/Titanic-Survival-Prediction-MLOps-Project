@@ -18,8 +18,7 @@ This repository contains the implementation of the third project in the MLOps se
 - [🚀 Usage](#-usage)  
 - [🗂️ Data & Code Versioning](#-data--code-versioning)  
 - [🤝 Contributing](#-contributing)  
-- [📄 License](#-license)  
-- [🙏 Acknowledgments](#-acknowledgments)  
+
 
 ---
 
